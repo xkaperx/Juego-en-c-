@@ -1,0 +1,27 @@
+C:\Documents and Settings\saeed\My Documents\Visual Studio 2008\Projects\game\game\bin\Debug\game.exe
+C:\Documents and Settings\saeed\My Documents\Visual Studio 2008\Projects\game\game\bin\Debug\game.pdb
+C:\Documents and Settings\saeed\My Documents\Visual Studio 2008\Projects\game\game\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\saeed\My Documents\Visual Studio 2008\Projects\game\game\obj\Debug\game.Form1.resources
+C:\Documents and Settings\saeed\My Documents\Visual Studio 2008\Projects\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Documents and Settings\saeed\My Documents\Visual Studio 2008\Projects\game\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Documents and Settings\saeed\My Documents\Visual Studio 2008\Projects\game\game\obj\Debug\game.exe
+C:\Documents and Settings\saeed\My Documents\Visual Studio 2008\Projects\game\game\obj\Debug\game.pdb
+D:\saeeed\c#\game\game\obj\Debug\game.exe
+D:\saeeed\c#\game\game\obj\Debug\game.pdb
+C:\Users\Antonio Sanchez\Desktop\300 C# Project\game\game\game\obj\Debug\game.pdb
+C:\Users\Antonio Sanchez\Desktop\300 C# Project\game\game\game\bin\Debug\game.exe
+C:\Users\Antonio Sanchez\Desktop\300 C# Project\game\game\game\bin\Debug\game.pdb
+C:\Users\Antonio Sanchez\Desktop\300 C# Project\game\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Antonio Sanchez\Desktop\300 C# Project\game\game\game\obj\Debug\game.Form1.resources
+C:\Users\Antonio Sanchez\Desktop\300 C# Project\game\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Antonio Sanchez\Desktop\300 C# Project\game\game\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Antonio Sanchez\Desktop\300 C# Project\game\game\game\obj\Debug\game.exe
+C:\Users\Usuario\Desktop\C#\gameBUENPROGRAMA\game\game\bin\Debug\game.exe
+C:\Users\Usuario\Desktop\C#\gameBUENPROGRAMA\game\game\bin\Debug\game.pdb
+C:\Users\Usuario\Desktop\C#\gameBUENPROGRAMA\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\gameBUENPROGRAMA\game\game\obj\Debug\game.Form1.resources
+C:\Users\Usuario\Desktop\C#\gameBUENPROGRAMA\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Usuario\Desktop\C#\gameBUENPROGRAMA\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\C#\gameBUENPROGRAMA\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\gameBUENPROGRAMA\game\game\obj\Debug\game.exe
+C:\Users\Usuario\Desktop\C#\gameBUENPROGRAMA\game\game\obj\Debug\game.pdb
